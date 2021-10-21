@@ -1,3 +1,3 @@
-hola = input()
+adios = input()
 
-print(hola)
+print(adios)
